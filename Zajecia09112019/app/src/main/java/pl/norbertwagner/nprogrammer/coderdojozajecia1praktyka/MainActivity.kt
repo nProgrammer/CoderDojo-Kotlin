@@ -17,3 +17,5 @@ class MainActivity : AppCompatActivity() {
         textView.text = text
     }
 }
+
+// Napisz aplikacje ktora wypisuje slowo od tylu ktore wpisal uzytkownik
